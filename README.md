@@ -1,5 +1,5 @@
 # PHP
-Global and Local Scope
+Global and Local Scope https://www.w3schools.com/php/php_superglobals_request.asp morning 2nd may
 
 A variable declared outside a function has a GLOBAL SCOPE and can only be accessed outside a function:
 
